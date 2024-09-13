@@ -28,10 +28,10 @@ Dada una lista de nombres de estudiantes con sus calificaciones, se debe ordenar
 ### Punto 3: Sistema de Gestión de Estudiantes con Optimización de Memoria
 
 **Problema**  
-En un sistema universitario, se requiere gestionar los registros de estudiantes de manera eficiente, optimizando el uso de memoria. Las operaciones incluyen agregar, modificar y eliminar estudiantes, utilizando un enfoque en C que maneja dinámicamente la memoria con `malloc` y `free`. Además, se deben implementar técnicas para evitar el desperdicio de memoria y evitar la fragmentación, como el uso de estructuras optimizadas y cadenas de texto dinámicas.
+En un sistema universitario, se requiere gestionar los registros de estudiantes de manera eficiente, optimizando el uso de memoria.
 
 **Conclusiones**  
-- **Gestión Dinámica de Memoria (C)**: Usar `malloc` y `free` permite una gestión flexible de los recursos, lo que es esencial para sistemas con recursos limitados. El uso de estructuras como `struct` y `union`, así como el manejo de cadenas dinámicas, optimiza el uso de memoria, minimizando la fragmentación.
+
 - **Optimización de Memoria**: La implementación cuidadosa de estructuras de datos y la liberación oportuna de memoria resultan en un sistema eficiente que reduce el uso innecesario de recursos. Las comparaciones antes y después de la optimización muestran una mejora considerable en el rendimiento del sistema y en el uso de memoria.
 
 ---
